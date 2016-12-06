@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Introduction
+title: Joseph Stephen James’s Original Sacred Harp:
+Introduction to the Centennial Edition
 nav_order: 2
 excerpt: An introduction explaining annotation methods and goals.
 ---
