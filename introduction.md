@@ -28,3 +28,16 @@ Revising The Sacred Harp in the Twentieth Century</h3>
   Two of White’s sons published The New Sacred Harp in 1884. Their tunebook adopted a newer seven-shape shape-note system, incorporated many “Sabbath School” songs and those written in an early gospel style, and featured 
 </p>
 
+</style>
+<body>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+var margin = {top: 20, right: 20, bottom: 20, left: 20},
+    padding = {top: 60, right: 60, bottom: 60, left: 60},
+    outerWidth = 960,
+    outerHeight = 500,
+    innerWidth = outerWidth - margin.left - margin.right,
+    innerHeight = outerHeight - margin.top - margin.bottom,
+    width = innerWidth - padding.left - padding.right,
+    height = innerHeight - padding.top - padding.bottom;
+
