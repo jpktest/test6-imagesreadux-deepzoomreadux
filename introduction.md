@@ -6,6 +6,6 @@ excerpt: An introduction explaining annotation methods and goals.
 ---
 
 <p class="message">
-  Edit to add an introduction to your digital edition.
+  This is an introduction to the Original Sacred Harp: Digital Scholarly Edition.
 </p>
 
