@@ -49,21 +49,17 @@ publication_info:
   editors:
   - Atlanta Studies
   tei_xml: tei.xml
-  title: 'Original sacred harp : containing a superior collection of standard melodies,
-    of odes, anthems, and church music, and hymns of high repute : rudiments, retaining
-    all valuable standard regulations, arr. with all modern up-to-date improvements.,
-    an annotated digital edition'
+  title: 'Original Sacred Harp:
+    Digital Scholarly Edition'
 show_annotation_author: true
 source_info:
   author: B F White; E J King; J S James.
   date: '1911'
   pdf_url: http://readuxout2in.library.emory.edu/books/emory:r8qzb/pdf/
-  title: 'Original sacred harp : containing a superior collection of standard melodies,
-    of odes, anthems, and church music, and hymns of high repute : rudiments, retaining
-    all valuable standard regulations, arr. with all modern up-to-date improvements.'
+  title: 'Original Sacred Harp'
   url: http://readuxout2in.library.emory.edu/books/emory:r8qzb/
   via_readux: true
-tagline: ', an annotated digital edition'
+tagline: 'Digital Scholarly Edition'
 title: 'Original Sacred Harp'
 url: https://jpktest.github.io
 version: 0.7
