@@ -4,5 +4,5 @@ title: Credits
 nav_order: 6
 ---
 
-Credits placeholder page, text TBD
+*Credits placeholder page, text TBD*
 
