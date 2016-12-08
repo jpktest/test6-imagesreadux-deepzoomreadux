@@ -4,9 +4,10 @@ title: Credits
 nav_order: 6
 ---
 
-*Jesse P. Karlsberg: Volume Editor
+<ul>
+<l><i>Jesse P. Karlsberg: Volume Editor</i></l>
 
-*Robert A.W. Dunn: Music Historical Consultant
+<l><i>JRobert A.W. Dunn: Music Historical Consultant</i></l>
 
 The online edition of this book was digitized by Anika Rastgir, Robert Presutti, Jesse P. Karlsberg, Jonathan Wood, and Molly Ellis. Jesse P. Karlsberg and Danielle Pitrone edited and prepared the digitized files. Apex CoVantage ran and corrected OCR with assistance from Sara Palmer and Danielle Pitrone.
 
