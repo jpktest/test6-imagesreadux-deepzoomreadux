@@ -4,7 +4,7 @@ title: Credits
 nav_order: 6
 ---
 
-<ul>
+<ul type="circle">
 <l><i>Jesse P. Karlsberg: Volume Editor</i></l>
 
 <l><i>Robert A.W. Dunn: Music Historical Consultant</i></l>
