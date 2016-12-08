@@ -6,10 +6,9 @@ excerpt: An introduction explaining annotation methods and goals.
 ---
     
 
-*The Original Sacred Harp*, now over a century old, profoundly impacted the history of *The Sacred Harp*, a shape-note tunebook in print (and in active use) since 1844. Edited by a committee headed by Joseph Stephen James (1849–1931, hereafter J. S. James), and published in Atlanta in 1911, *Original Sacred Harp* competed against several rival early-twentieth-century editions of The Sacred Harp and won the widest adoption. Often called the “James book,” Original Sacred Harp is the direct progenitor of *The Sacred Harp, 1991 Edition*, the edition of the tunebook that enjoys the most widespread contemporary use by singers from Massachusetts to California, Atlanta to Sydney. [1]
+*The Original Sacred Harp*, now over a century old, profoundly impacted the history of *The Sacred Harp*, a shape-note tunebook in print (and in active use) since 1844. Edited by a committee headed by Joseph Stephen James (1849–1931, hereafter J. S. James), and published in Atlanta in 1911, *Original Sacred Harp* competed against several rival early-twentieth-century editions of The Sacred Harp and won the widest adoption. Often called the “James book,” Original Sacred Harp is the direct progenitor of *The Sacred Harp, 1991 Edition*, the edition of the tunebook that enjoys the most widespread contemporary use by singers from Massachusetts to California, Atlanta to Sydney.
  
-
-Sacred Harp singing is an a cappella group harmony style based around singing from *The Sacred Harp*.[2] This singing practice revolves around weekend-long, annual singing conventions at which participants sit in an inward-facing hollow square (with one vocal part on each side), and a succession of leaders stand in the middle, directing the assembled “class” in selections from the tunebook. By 1900, singing conventions featuring *The Sacred Harp* extended from Georgia to Texas, and included people from a wide range of social strata and occupations. White and black men and women attended Sacred Harp singings, though most singings were racially segregated, and the tunebook editors and contributors were exclusively white. After the turn of the twentieth century, leading singers edited the first revisions of The Sacred Harp following the death of its senior compiler, Benjamin Franklin White (1800–79).
+Sacred Harp singing is an a cappella group harmony style based around singing from *The Sacred Harp*. This singing practice revolves around weekend-long, annual singing conventions at which participants sit in an inward-facing hollow square (with one vocal part on each side), and a succession of leaders stand in the middle, directing the assembled “class” in selections from the tunebook. By 1900, singing conventions featuring *The Sacred Harp* extended from Georgia to Texas, and included people from a wide range of social strata and occupations. White and black men and women attended Sacred Harp singings, though most singings were racially segregated, and the tunebook editors and contributors were exclusively white. After the turn of the twentieth century, leading singers edited the first revisions of The Sacred Harp following the death of its senior compiler, Benjamin Franklin White (1800–79).
   
 Several features of one of these editions, *Original Sacred Harp*, make it exceptional. Each song in *Original Sacred Harp* includes a historical note written by James. These annotations comprised the most ambitious and accessible record of the history of the songs and hymns in *The Sacred Harp* and their writers until David Warren Steel’s 2010 reference work, *The Makers of the Sacred Harp*. Although of variable accuracy, the annotations in Original Sacred Harp are a valuable source of information—and occasionally humor. They also reveal that *The Sacred Harp* had become the subject of historical study by the early twentieth century. More than a tunebook, the annotations in *Original Sacred Harp* show how *The Sacred Harp* had become the centerpiece of a tradition of singing.
 
@@ -66,19 +65,18 @@ James’s revision, titled *Original Sacred Harp*, was published in August 1911.
 
 A testimonial on the back cover of James’s tunebook also makes clear that its revisers saw Sacred Harp singing as inheriting a tradition of sacred music in the Bible imagined as stretching back to the Old Testament. As music scholar Duncan Vinson puts it, the “testimonial clearly links the Sacred Harp cause with a longtime tenet of conservative Protestantism … a desire to purify Christianity by returning to the practices of the early church.” In large, uppercase text, the back cover asserts that
 
->The Music and Hymns
- >IN THE
->“Original Sacred Harp"
->THIS VOLUME ARE IN ACCORD 
->AND KEEPING WITH THE
->“SACRED MUSIC IN THE BIBLE”
->FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
->FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
->THE PROPHETS, LEVITES, DAVID, SOLOMON
->DOWN TO
->JESUS CHRIST
->HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
->AND TO THE PRESENT.
+> The Music and Hymns >IN THE
+> “Original Sacred Harp"
+> THIS VOLUME ARE IN ACCORD 
+> AND KEEPING WITH THE
+> “SACRED MUSIC IN THE BIBLE”
+> FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
+> FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
+> THE PROPHETS, LEVITES, DAVID, SOLOMON
+> DOWN TO
+> JESUS CHRIST
+> HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
+> AND TO THE PRESENT.
 
 The editors’ twin historical aims of associating *Original Sacred Harp*’s music with antebellum culture and sacred music “from Jubal [on] to the present” appear throughout the volume in historical notes James added to every song. These notes, some of which he carried over from *Union Harp and History of Songs*, provide information on the publication history of a song’s text and tune, as well as biographical information about their authors. This effort to recover the history of the early contributors to this and other tunebooks suggests James considered the book’s history an important part of its appeal and significance. By arguing that the tunebook’s roots stretched back to the antebellum South as well as to spatially and temporally distant American and European settings, James portrayed *Original Sacred Harp* not only as an emblem of antebellum culture but also as an important American historical and cultural artifact.
 
