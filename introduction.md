@@ -7,7 +7,19 @@ excerpt: An introduction explaining annotation methods and goals.
 ##### Jesse P. Karlsberg    
 
 *The Original Sacred Harp*, now over a century old, profoundly impacted the history of *The Sacred Harp*, a shape-note tunebook in print (and in active use) since 1844. Edited by a committee headed by Joseph Stephen James (1849–1931, hereafter J. S. James), and published in Atlanta in 1911, *Original Sacred Harp* competed against several rival early-twentieth-century editions of The Sacred Harp and won the widest adoption. Often called the “James book,” Original Sacred Harp is the direct progenitor of *The Sacred Harp, 1991 Edition*, the edition of the tunebook that enjoys the most widespread contemporary use by singers from Massachusetts to California, Atlanta to Sydney.
- 
+
+Some text with a footnote.<sup><a href="#fn1" id="ref1">1</a></sup>
+
+Some more text with a footnote.<sup><a href="#fn2" id="ref2">2</a></sup>
+
+Some more text with a footnote.<sup><a href="#fn3" id="ref3">3</a></sup>
+
+Some more text with a footnote.<sup><a href="#fn4" id="ref4">4</a></sup>
+
+<hr></hr>
+
+
+
 Sacred Harp singing is an a cappella group harmony style based around singing from *The Sacred Harp*. This singing practice revolves around weekend-long, annual singing conventions at which participants sit in an inward-facing hollow square (with one vocal part on each side), and a succession of leaders stand in the middle, directing the assembled “class” in selections from the tunebook. By 1900, singing conventions featuring *The Sacred Harp* extended from Georgia to Texas, and included people from a wide range of social strata and occupations. White and black men and women attended Sacred Harp singings, though most singings were racially segregated, and the tunebook editors and contributors were exclusively white. After the turn of the twentieth century, leading singers edited the first revisions of The Sacred Harp following the death of its senior compiler, Benjamin Franklin White (1800–79).
   
 Several features of one of these editions, *Original Sacred Harp*, make it exceptional. Each song in *Original Sacred Harp* includes a historical note written by James. These annotations comprised the most ambitious and accessible record of the history of the songs and hymns in *The Sacred Harp* and their writers until David Warren Steel’s 2010 reference work, *The Makers of the Sacred Harp*. Although of variable accuracy, the annotations in Original Sacred Harp are a valuable source of information—and occasionally humor. They also reveal that *The Sacred Harp* had become the subject of historical study by the early twentieth century. More than a tunebook, the annotations in *Original Sacred Harp* show how *The Sacred Harp* had become the centerpiece of a tradition of singing.
@@ -143,3 +155,11 @@ This note led some singers to adopt the name “cheese notes” for James’s an
 
 ![](http://images.bigcartel.com/product_images/26308263/THE_MAKERS_OF_THE_SACRED_HARP.jpg?auto=format&fit=max&h=1000&w=1000)
 David Warren Steel with Ricahrd H. Hulan's *The Makers of the Sacred Harp*, 2010.  Illustration by Bethanne Hill.  Used with permission of the University of Illinois Press.
+
+<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
+<sup id="fn2">2. [Text of footnote 2]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+
+<sup id="fn3">3. [Text of footnote 3]<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
+
+<sup id="fn4">4. [Text of footnote 4]<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
