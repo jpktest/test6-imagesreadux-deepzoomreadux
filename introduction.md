@@ -67,29 +67,17 @@ James’s revision, titled *Original Sacred Harp*, was published in August 1911.
 A testimonial on the back cover of James’s tunebook also makes clear that its revisers saw Sacred Harp singing as inheriting a tradition of sacred music in the Bible imagined as stretching back to the Old Testament. As music scholar Duncan Vinson puts it, the “testimonial clearly links the Sacred Harp cause with a longtime tenet of conservative Protestantism … a desire to purify Christianity by returning to the practices of the early church.” In large, uppercase text, the back cover asserts that
 
 >The Music and Hymns
-
  >IN THE
- 
->“Original Sacred Harp”
-
+>“Original Sacred Harp"
 >THIS VOLUME ARE IN ACCORD 
-
 >AND KEEPING WITH THE
-
 >“SACRED MUSIC IN THE BIBLE”
-
 >FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
-
 >FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
-
 >THE PROPHETS, LEVITES, DAVID, SOLOMON
-
 >DOWN TO
-
 >JESUS CHRIST
-
 >HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
-
 >AND TO THE PRESENT.
 
 The editors’ twin historical aims of associating *Original Sacred Harp*’s music with antebellum culture and sacred music “from Jubal [on] to the present” appear throughout the volume in historical notes James added to every song. These notes, some of which he carried over from *Union Harp and History of Songs*, provide information on the publication history of a song’s text and tune, as well as biographical information about their authors. This effort to recover the history of the early contributors to this and other tunebooks suggests James considered the book’s history an important part of its appeal and significance. By arguing that the tunebook’s roots stretched back to the antebellum South as well as to spatially and temporally distant American and European settings, James portrayed *Original Sacred Harp* not only as an emblem of antebellum culture but also as an important American historical and cultural artifact.
@@ -136,7 +124,7 @@ New Denson Revisions published in 1960, 1966, 1971, and 1987 continued to incorp
 
 While the 1991 Edition’s design was widely hailed as a great improvement, many singers bemoaned the loss of the easy access to historical information about the book’s contributors that James’s notes provided. Some contemporary singers had also appreciated James for the humor that came from his mistakes, his idiosyncratic way with words, and the sometimes surprising stories he told about the figures included in the tunebook. In his account of John Leland, author of the hymn text “O when shall I see Jesus, and reign with Him above,” which accompanies Elisha James King’s “Bound for Canaan,” James wrote,
 
->Rev. John Leland was born in 1754 and died in 1844. He was a Baptist preacher. In 1801 he took a preaching tour from his home in >Massachusetts to Washington with his Cheshire cheese, which made his name national on account of that trip. … The farmers of Cheshire, >for whom he was pastor, conceived the idea of sending the biggest cheese in America to President Jefferson. Mr. Leland offered to go to >Washington with an ox team with it and preach along the way, which he did. The cheese weighed 1,450 pounds. He died with great hope of >rest in the glory world.
+>Rev. John Leland was born in 1754 and died in 1844. He was a Baptist preacher. In 1801 he took a preaching tour from his home in Massachusetts to Washington with his Cheshire cheese, which made his name national on account of that trip. … The farmers of Cheshire, for whom he was pastor, conceived the idea of sending the biggest cheese in America to President Jefferson. Mr. Leland offered to go to Washington with an ox team with it and preach along the way, which he did. The cheese weighed 1,450 pounds. He died with great hope of rest in the glory world.
 
 ![](http://images.bigcartel.com/product_images/26308263/THE_MAKERS_OF_THE_SACRED_HARP.jpg?auto=format&fit=max&h=1000&w=1000)
 David Warren Steel with Ricahrd H. Hulan's *The Makers of the Sacred Harp*, 2010.  Illustration by Bethanne Hill.  Used with permission of the University of Illinois Press.
