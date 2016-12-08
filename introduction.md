@@ -33,10 +33,12 @@ Movement toward revising *The Sacred Harp* intensified in West Georgia around th
 In 1909 two books were published in response to the United Convention’s call: a fifth edition of *The Sacred Harp*, edited by 
 J. L. White, and *Union Harp and History of Songs*, edited by J. S. James. Union Harp included a variety of music styles, pairing songs drawn from the previous edition of *The Sacred Harp* with popular hymn-tunes in early gospel styles. *The Union Harp* editors reharmonized a handful of these Sacred Harp songs, imbuing them with stylistic elements of gospel music. The book also included a selection of newly composed songs written by active Sacred Harp singing school teachers such as brothers Thomas Jackson Denson (1863–1935) and Seaborn McDaniel Denson (1854–1936). Like the new songs found in the “Cooper book,” many of these selections featured hallmarks of early gospel styles. Union Harp also included a unique feature—an extensive historical note paired with each song. These notes included biographies of tune- and hymn-writers and emphasized the music’s ties to prominent figures, past and present, in American and European music and Protestantism.
 
-![](http://i1.wp.com/originalsacredharp.com/wp-content/uploads/2014/04/rees-01-white-book-cover-350x243.png?resize=350%2C243)
+![](http://i1.wp.com/originalsacredharp.com/wp-content/uploads/2014/04/rees-01-white-book-cover-350x243.png?resize=350%2C243/ =300x)
+
 ##### J. L. White's *Sacred Harp, Fifth Edition*, 1909
 
-![](https://readux.library.emory.edu/books/emory:8qnb2/pages/emory:grfkp/thumbnail/)
+![](https://readux.library.emory.edu/books/emory:8qnb2/pages/emory:grfkp/thumbnail/ =300x)
+
 ##### J. S. James's *Union Harp and History of Songs*
 
 
@@ -52,7 +54,8 @@ J. L. White’s third revision, titled *The Sacred Harp, Fourth Edition with Sup
 
 The form and contents of *Original Sacred Harp*, J. S. James’s 1911 revision of *The Sacred Harp*, owe a great deal to the editor’s background. James’s life experiences prepared him well to furnish a socially and economically diverse white southern public with an acceptable revision of The Sacred Harp. Born in rural West Georgia’s Campbell County in 1849, James attended singing schools taught by his father, Stephen James, and by James R. Turner. After moving to Douglasville, seat of the newly established Douglas County, he embarked on a successful business and political career. At twenty-six, James, a Democrat, was elected the first mayor of Douglasville, moving on to the Georgia state legislature five years later, and then to the state senate. During the 1880s and 1890s, James edited a weekly Douglas County newspaper, the New South, and served on a variety of committees to promote industry, railroad construction, and various business ventures. An anti-Populist, James campaigned for Grover Cleveland and was rewarded with a patronage appointment as United States District Attorney for the Northern District of Georgia, leading him to move to Atlanta. James returned to singing after his retirement from political life in 1897.
 
-![](http://i0.wp.com/originalsacredharp.com/wp-content/uploads/2015/09/JSJames.jpg)
+![](http://i0.wp.com/originalsacredharp.com/wp-content/uploads/2015/09/JSJames.jpg =500x)
+
 ##### Joseph Stephen James in an undated portrait.
 
 James’s career was typical of the New South boosters who sought to modernize and urbanize the southeastern United States after Reconstruction. Colleagues of James in Atlanta aggressively looked forward, seeking to develop and expand business in the city. Yet this group of white men also looked back to the antebellum period with nostalgia for what they saw as a time when their standing atop the South’s social hierarchy was unchallenged. Historian Gavin James Campbell argues that such New South boosters’ musical activities sometimes expressed this ambivalence toward modernity, or assuaged anxieties about their standing in a modernizing urban context.
@@ -103,7 +106,8 @@ In some songs whose harmonies remained unaltered, other changes reveal the edito
 
 Much of James’s effort to depict *Original Sacred Harp* as full of “material modern improvement” centered on the book’s aesthetics, format, and technology of production. The book’s cover trumpets this fact, boasting “ALL PLATES AND EVERYTHING NEW” and adds that it is “Just Out : : : August 1911,” emphasizing the book’s contemporariness. James also promoted the book’s contemporary currency by including photographs of Atlanta’s white religious and political elite in the frontmatter. In addition to a photograph of Atlanta Tabernacle pastor Len Broughton in the first printing of the James book, a later 1929 printing added a photograph of Atlanta mayor I. N. Ragsdale, described as an active supporter of the annual United Convention. James also added a statistical table in the front of the book citing, among other things, the total number of scriptural citations for songs, the number of “words used in the book,” and “number of repeats in the book.” The inclusion of these sometimes-quirky statistics (of dubious reliability) aligned with the modernizing New South’s emphasis on industrial accounting and factbooks.
 
-![](https://s3-us-west-2.amazonaws.com/find-a-grave-prod/photos/2011/88/55417256_130153664005.jpg)
+![](https://s3-us-west-2.amazonaws.com/find-a-grave-prod/photos/2011/88/55417256_130153664005.jpg =400x)
+
 ##### Atlanta alderman, later mayor, Isaac Newton Ragsdale.  Photo will be updated soon.
 
 The tunebook’s new “first class” printing plates also contributed to the book’s modern presentation. The plates changed the effect of the tunebook’s appearance in three ways. The new layout, which placed the text attribution at the top left of the page and the music attribution at the top right, emulated the standard form of gospel songbooks, visually (if not musically) associating the book with this modern style. By imposing a consistent layout on all the pages in the book, the new plates also amplified the systematization the book’s statistical table suggests by rendering the appearance of the pages consistent. Finally, the new plates adopted widely used and recently designed typefaces, further contributing to the tunebook’s contemporary aesthetic.
@@ -139,5 +143,6 @@ While the 1991 Edition’s design was widely hailed as a great improvement, many
 
 This note led some singers to adopt the name “cheese notes” for James’s annotations. Undeniably comical, the propensity of the notes to encourage jokes at the tunebook’s expense, along with the uneven display of pages after seventy-five years of additions and substitutions, was embarrassing to the tunebook’s revisers, in whose cultural context Sacred Harp singing was often regarded as “old fogy.” The revisers promised to publish a companion volume with corrected notes on each song and author. The process of preparing the promised companion volume took longer than originally anticipated, but the book, written by musicologist David Warren Steel with hymnody scholar Richard H. Hulan, and published in 2010 as *The Makers of the Sacred Harp*, represents a herculean research effort. Along with a number of short essays describing aspects of the tunebook’s history, contents, and proponents, the book includes concise, thoroughly researched, and engagingly written biographical entries on the hymn- and tune-writers featured in *The Sacred Harp, 1991 Edition* and helpful information on the songs themselves. Published by the University of Illinois Press with subventions from the Sacred Harp Publishing Company and the Joe Beasley Memorial Foundation, *The Makers of the Sacred Harp* signals its affiliation with the legacy of the “James book” by focusing exclusively on those songs and authors featured in its most recent successor, the 1991 Edition.
 
-![](http://images.bigcartel.com/product_images/26308263/THE_MAKERS_OF_THE_SACRED_HARP.jpg?auto=format&fit=max&h=1000&w=1000)
+![](http://images.bigcartel.com/product_images/26308263/THE_MAKERS_OF_THE_SACRED_HARP.jpg?auto=format&fit=max&h=1000&w=1000 =300x)
+
 ##### David Warren Steel with Ricahrd H. Hulan's *The Makers of the Sacred Harp*, 2010.  Illustration by Bethanne Hill.  Used with permission of the University of Illinois Press.
