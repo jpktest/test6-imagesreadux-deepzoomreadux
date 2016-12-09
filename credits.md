@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-nav_order: 6
+nav_order: 7
 ---
 
 <ul type="circle">
