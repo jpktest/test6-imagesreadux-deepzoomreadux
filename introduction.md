@@ -37,7 +37,7 @@ J. L. White, and *Union Harp and History of Songs*, edited by J. S. James. Union
 
 J. L. White's *Sacred Harp, Fifth Edition*, 1909
 
-![](https://readux.library.emory.edu/books/emory:8qnb2/pages/emory:grfkp/thumbnail/)
+![](https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%202%20Union-Harp.jpg?raw=true)
 
 J. S. James's *Union Harp and History of Songs*
 
