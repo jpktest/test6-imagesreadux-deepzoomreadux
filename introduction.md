@@ -68,19 +68,31 @@ James’s revision, titled *Original Sacred Harp*, was published in August 1911.
 
 A testimonial on the back cover of James’s tunebook also makes clear that its revisers saw Sacred Harp singing as inheriting a tradition of sacred music in the Bible imagined as stretching back to the Old Testament. As music scholar Duncan Vinson puts it, the “testimonial clearly links the Sacred Harp cause with a longtime tenet of conservative Protestantism … a desire to purify Christianity by returning to the practices of the early church.”<sup><a href="#fn22" id="ref22">22</a></sup> In large, uppercase text, the back cover asserts that
 
-<h5>The Music and Hymns 
-IN THE
-“Original Sacred Harp"
-THIS VOLUME ARE IN ACCORD 
-AND KEEPING WITH THE
-“SACRED MUSIC IN THE BIBLE”
-FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
-FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
-THE PROPHETS, LEVITES, DAVID, SOLOMON
-DOWN TO
-JESUS CHRIST
-HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
-AND TO THE PRESENT.<sup><a href="#fn23" id="ref23">23</a></sup></h5>
+>The Music and Hymns 
+>
+>IN THE
+>
+>“Original Sacred Harp"
+>
+>THIS VOLUME ARE IN ACCORD 
+>
+>AND KEEPING WITH THE
+>
+>“SACRED MUSIC IN THE BIBLE”
+>
+>FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
+>
+>FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
+>
+>THE PROPHETS, LEVITES, DAVID, SOLOMON
+>
+>DOWN TO
+>
+>JESUS CHRIST
+>
+>HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
+>
+>AND TO THE PRESENT.<sup><a href="#fn23" id="ref23">23</a></sup></h5>
 
 The editors’ twin historical aims of associating *Original Sacred Harp*’s music with antebellum culture and sacred music “from Jubal [on] to the present” appear throughout the volume in historical notes James added to every song. These notes, some of which he carried over from *Union Harp and History of Songs*,<sup><a href="#fn24" id="ref24">24</a></sup> provide information on the publication history of a song’s text and tune, as well as biographical information about their authors. This effort to recover the history of the early contributors to this and other tunebooks suggests James considered the book’s history an important part of its appeal and significance. By arguing that the tunebook’s roots stretched back to the antebellum South as well as to spatially and temporally distant American and European settings, James portrayed *Original Sacred Harp* not only as an emblem of antebellum culture but also as an important American historical and cultural artifact.
 
@@ -117,7 +129,7 @@ James’s campaign did not vanquish White’s edition, but it may have helped se
 
 J. S. James lived the longest of the three early-twentieth-century Sacred Harp revisers, surviving Cooper and J. L. White. In the wake of his death a new generation of leaders considered combining the three competing revisions of The Sacred Harp with the hope of reunifying the tunebook’s singers.<sup><a href="#fn41" id="ref41">41</a></sup> Yet even as these discussions unfolded, Paine Denson (1882–1955) published *Original Sacred Harp: Denson Revision*, a revision of the “James book” begun by his father, Thomas Jackson Denson, and his uncle, Seaborn McDaniel Denson, who had been the “James book’s” music editor. (The brothers died before the project’s completion.) The Denson brothers had both served on the revision committee of the Original Sacred Harp, and had purchased the rights to the book from James’s only surviving child after James’s death. Published during the Great Depression in a time of austerity, the “Denson book” was a slimmer volume than its predecessor. The Densons removed nearly 150 songs while adding several new compositions. Rather than re-typeset the book, Denson’s committee reused the stereotyped plates from the “James book,” adding new songs using new plates that only partially conformed to the template laid out by James, lacking historical notes and scriptural citations.
 
-![](https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%205%20Denson%20Revision.jpg?raw=true =50%)
+![](https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%205%20Denson%20Revision.jpg?raw=true)
 T. J. Denson, S. M. Denson, Paine Denson's *Original Sacred Harp: Denson Revision*, 1936.
 
 In most areas, those who had used the “James book” adopted the Denson Revision. The Densons’ new *Original Sacred Harp* also absorbed users of the “White book” in many areas during the twentieth century as no new “White book” revision materialized and copies of the revision became scarce. Even after the publication of the Denson Revision, some singers continued to use the “James book.” In an area of South Georgia stretching from Thomaston south to Albany and Cordele, singers rejected the Denson Revision because “The Saviour’s Call” had been removed from the book. The song was a favorite of Plez Hardin, the chairman of the South Georgia Convention. The convention and the two dozen annual singings under its umbrella continued to use the “James book” into the 1970s, arranging with the Sacred Harp Publishing Company—the organization that published the Denson Revision and held the rights to the “James book”—to have small runs of the edition printed around 1949 and in 1964.<sup><a href="#fn42" id="ref42">42</a></sup> Even after finally adopting the Denson Revision in the 1970s, singers in the area continued to sing “The Great Roll Call,” a favorite song from the “James book” that does not appear in the *Denson Revision*.<sup><a href="#fn43" id="ref43">43</a></sup>
