@@ -6,6 +6,10 @@ excerpt: An introduction explaining annotation methods and goals.
 ---
 ##### Jesse P. Karlsberg    
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 *The Original Sacred Harp*, now over a century old, profoundly impacted the history of *The Sacred Harp*, a shape-note tunebook in print (and in active use) since 1844. Edited by a committee headed by Joseph Stephen James (1849–1931, hereafter J. S. James), and published in Atlanta in 1911, *Original Sacred Harp* competed against several rival early-twentieth-century editions of The Sacred Harp and won the widest adoption. Often called the “James book,” Original Sacred Harp is the direct progenitor of *The Sacred Harp, 1991 Edition*, the edition of the tunebook that enjoys the most widespread contemporary use by singers from Massachusetts to California, Atlanta to Sydney.
 
