@@ -3,6 +3,10 @@ p {
      margin-left: 2rem;
    margin-right: 2rem;
   
-  float: left;
+
   }
+
+.page {
+  text-align: left;
+}
 
