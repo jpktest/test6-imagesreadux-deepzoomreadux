@@ -5,9 +5,9 @@ p {
   text-align: left;
   
 }
-float {
+img {
 		float:left;
-		width: 100px;
+    clear:both;
 	}
 
 
