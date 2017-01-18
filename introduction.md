@@ -32,7 +32,7 @@ Cooper’s revision of *The Sacred Harp* was geared toward a local audience for 
 Movement toward revising *The Sacred Harp* intensified in West Georgia around the time of the “Cooper book’s” publication, spearheaded by Atlanta lawyer, businessman, and politician J. S. James. James co-founded a convention in his former hometown of Douglasville in 1902. That same year the convention passed a resolution to revise and enlarge *The Sacred Harp*, modernize the tunebook, and consider splitting it into two books, with a smaller supplemental volume encompassing the wide range of music styles then competing for singers’ attention.<sup><a href="#fn7" id="ref7">7</a></sup> The convention sent the resolution to the Chattahoochee Convention, whose secretary entered it into the convention record book and spread it in local newspapers along with the convention’s minutes.<sup><a href="#fn8" id="ref8">8</a></sup> Two years later J. S. James collaborated with Benjamin Franklin White’s most musically active son, James Landrum White (1847–1925, hereafter J. L. White)—a co-editor of *The New Sacred Harp*—to found a new convention in their adopted home of Atlanta. Organized as the United Sacred Harp Musical Association (hereafter the United Convention) in 1905, the event’s leaders intended it to function as a central organization for the area’s Sacred Harp singings.<sup><a href="#fn9" id="ref9">9</a></sup> James, White, and their Atlanta-area associates may have imagined this new institution as succeeding the Southern Musical Convention (an organization founded by Benjamin Franklin White in 1845) which had passed resolutions authorizing the enlargement or revision of The Sacred Harp in 1849, 1858, and 1867.<sup><a href="#fn10" id="ref10">10</a></sup> In 1906 the United Convention passed just such a resolution, with language that seems to mirror the 1902 resolution of the Douglasville Convention, authorizing “revising the Sacred Harp” and compiling “other smaller music books.”<sup><a href="#fn11" id="ref11">11</a></sup>
 
 J. L. White's *Sacred Harp, Fifth Edition*, 1909
-<img class="float-left" src="https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%201%201870.jpg?raw=true" alt="" width="600">
+<img  src="https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%201%201870.jpg?raw=true" alt="" width="600">
 
 In 1909 two books were published in response to the United Convention’s call: a fifth edition of *The Sacred Harp*, edited by 
 J. L. White, and *Union Harp and History of Songs*, edited by J. S. James. Union Harp included a variety of music styles, pairing songs drawn from the previous edition of *The Sacred Harp* with popular hymn-tunes in early gospel styles. *The Union Harp* editors reharmonized a handful of these Sacred Harp songs, imbuing them with stylistic elements of gospel music. The book also included a selection of newly composed songs written by active Sacred Harp singing school teachers such as brothers Thomas Jackson Denson (1863–1935) and Seaborn McDaniel Denson (1854–1936). Like the new songs found in the “Cooper book,” many of these selections featured hallmarks of early gospel styles. Union Harp also included a unique feature—an extensive historical note paired with each song. These notes included biographies of tune- and hymn-writers and emphasized the music’s ties to prominent figures, past and present, in American and European music and Protestantism.
@@ -71,29 +71,29 @@ James’s revision, titled *Original Sacred Harp*, was published in August 1911.
 A testimonial on the back cover of James’s tunebook also makes clear that its revisers saw Sacred Harp singing as inheriting a tradition of sacred music in the Bible imagined as stretching back to the Old Testament. As music scholar Duncan Vinson puts it, the “testimonial clearly links the Sacred Harp cause with a longtime tenet of conservative Protestantism … a desire to purify Christianity by returning to the practices of the early church.”<sup><a href="#fn22" id="ref22">22</a></sup> In large, uppercase text, the back cover asserts that
 
 >The Music and Hymns 
->
+<br/>
 >IN THE
->
+<br/>
 >“Original Sacred Harp"
->
+<br/>
 >THIS VOLUME ARE IN ACCORD 
->
+<br/>
 >AND KEEPING WITH THE
->
+<br/>
 >“SACRED MUSIC IN THE BIBLE”
->
+<br/>
 >FROM JUBAL 160 A.M., 1500 YEARS BEFORE THE DELUGE
->
+<br/>
 >FROM ABRAHAM, MOSES, THE CHILDREN OF ISRAEL
->
+<br/>
 >THE PROPHETS, LEVITES, DAVID, SOLOMON
->
+<br/>
 >DOWN TO
->
+<br/>
 >JESUS CHRIST
->
+<br/>
 >HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
->
+<br/>
 >AND TO THE PRESENT.<sup><a href="#fn23" id="ref23">23</a></sup></h5>
 
 The editors’ twin historical aims of associating *Original Sacred Harp*’s music with antebellum culture and sacred music “from Jubal [on] to the present” appear throughout the volume in historical notes James added to every song. These notes, some of which he carried over from *Union Harp and History of Songs*,<sup><a href="#fn24" id="ref24">24</a></sup> provide information on the publication history of a song’s text and tune, as well as biographical information about their authors. This effort to recover the history of the early contributors to this and other tunebooks suggests James considered the book’s history an important part of its appeal and significance. By arguing that the tunebook’s roots stretched back to the antebellum South as well as to spatially and temporally distant American and European settings, James portrayed *Original Sacred Harp* not only as an emblem of antebellum culture but also as an important American historical and cultural artifact.
