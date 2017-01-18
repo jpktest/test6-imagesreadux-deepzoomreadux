@@ -5,7 +5,10 @@ p {
   text-align: left;
   
 
-  }
+  float {
+		float:left;
+		width: 100px;
+	}
 
 
 
