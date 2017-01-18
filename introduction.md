@@ -94,7 +94,7 @@ A testimonial on the back cover of James’s tunebook also makes clear that its 
 <br/>
 >HIS DISCIPLES AND THE FOUNDING OF HIS CHURCH
 <br/>
->AND TO THE PRESENT.<sup><a href="#fn23" id="ref23">23</a></sup></h5>
+>AND TO THE PRESENT.<sup><a href="#fn23" id="ref23">23</a></sup>
 
 The editors’ twin historical aims of associating *Original Sacred Harp*’s music with antebellum culture and sacred music “from Jubal [on] to the present” appear throughout the volume in historical notes James added to every song. These notes, some of which he carried over from *Union Harp and History of Songs*,<sup><a href="#fn24" id="ref24">24</a></sup> provide information on the publication history of a song’s text and tune, as well as biographical information about their authors. This effort to recover the history of the early contributors to this and other tunebooks suggests James considered the book’s history an important part of its appeal and significance. By arguing that the tunebook’s roots stretched back to the antebellum South as well as to spatially and temporally distant American and European settings, James portrayed *Original Sacred Harp* not only as an emblem of antebellum culture but also as an important American historical and cultural artifact.
 
