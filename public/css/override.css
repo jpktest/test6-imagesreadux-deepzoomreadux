@@ -7,12 +7,13 @@ p {
 }
 figure {
     float: right;
+    width: 500px;
     border: 10px solid #000;
     position: relative;
 }
 figure img {
     display: block;
-    width: 40%;
+    width: 100%;
     height: auto;
 }
 figcaption {
