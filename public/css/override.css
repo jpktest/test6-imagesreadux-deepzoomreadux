@@ -12,6 +12,12 @@ img {
     margin: 1rem
 	}
 
+figcaption {
+    position: relative;
+    top: -30px;
+    text-align:center;
+}
+
 
 
 
