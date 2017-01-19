@@ -16,6 +16,8 @@ figcaption {
     position: relative;
     top: -30px;
     text-align:center;
+    float:right;
+    clear:both;
 }
 
 
