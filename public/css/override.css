@@ -13,9 +13,8 @@ img {
 	}
 
 figcaption {
-    text-align: center;
     top: -15px;
-    float:right;
+    float:left;
     clear:both;
 }
 
