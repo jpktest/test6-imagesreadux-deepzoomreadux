@@ -13,8 +13,8 @@ img {
 	}
 
 figcaption {
-    top: -30px;
-    text-align:center;
+    top: -15px;
+    text-align:left;
     float:right;
     clear:both;
 }
