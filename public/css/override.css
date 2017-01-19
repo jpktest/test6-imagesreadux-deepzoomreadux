@@ -13,7 +13,6 @@ img {
 	}
 
 figcaption {
-  position:absolute;
     float:right;
     clear:both;
   margin: 1rem;
