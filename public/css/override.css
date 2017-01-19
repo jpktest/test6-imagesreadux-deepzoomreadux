@@ -13,9 +13,9 @@ img {
 	}
 
 figcaption {
-    top: -15px;
-    float:left;
+    float:right;
     clear:both;
+  margin: 1rem;
 }
 
 
