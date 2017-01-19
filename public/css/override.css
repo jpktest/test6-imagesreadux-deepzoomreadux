@@ -6,12 +6,13 @@ p {
   
 }
 figure {
+    float: right;
     border: 10px solid #000;
     position: relative;
 }
 figure img {
     display: block;
-    width: 100%;
+    width: 40%;
     height: auto;
 }
 figcaption {
