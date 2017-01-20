@@ -9,7 +9,8 @@ figure {
     float: right;
   clear:both;
     width: 500px;
-    border: 2px solid #000;
+    border: 2px solid #2F4F4F;
+    padding:1px;
     position: relative;
     margin:1rem
 }
