@@ -42,6 +42,13 @@ In 1909 two books were published in response to the United Convention’s call: 
 J. L. White, and *Union Harp and History of Songs*, edited by J. S. James. Union Harp included a variety of music styles, pairing songs drawn from the previous edition of *The Sacred Harp* with popular hymn-tunes in early gospel styles. *The Union Harp* editors reharmonized a handful of these Sacred Harp songs, imbuing them with stylistic elements of gospel music. The book also included a selection of newly composed songs written by active Sacred Harp singing school teachers such as brothers Thomas Jackson Denson (1863–1935) and Seaborn McDaniel Denson (1854–1936). Like the new songs found in the “Cooper book,” many of these selections featured hallmarks of early gospel styles. Union Harp also included a unique feature—an extensive historical note paired with each song. These notes included biographies of tune- and hymn-writers and emphasized the music’s ties to prominent figures, past and present, in American and European music and Protestantism.
 
 
+<div class="image">
+<figure>
+  <img src="https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%202%20Union-Harp.jpg?raw=true" alt="Union Harp and History of Songs, 1909" width="600">
+  <figcaption>Fig2. - J. S. James's <em>Union Harp and History of Songs</em>, 1909</figcaption>
+</figure>
+</div>
+
 <img src="https://github.com/jpktest/test6-imagesreadux-deepzoomreadux/blob/gh-pages/public/img/Fig.%202%20Union-Harp.jpg?raw=true" alt="" width="600">
 J. S. James's *Union Harp and History of Songs*, 1909
 
