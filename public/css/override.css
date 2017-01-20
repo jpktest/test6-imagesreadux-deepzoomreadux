@@ -9,7 +9,7 @@ figure {
     float: right;
   clear:both;
     width: 500px;
-    border: 10px solid #000;
+    border: 2px solid #000;
     position: relative;
     margin:1rem
 }
